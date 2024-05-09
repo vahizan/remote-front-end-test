@@ -38,5 +38,9 @@
         "dev:vite": "vite",
         "test": "jest --watchAll",
         "lint": "eslint ."
+    },
+    "volta": {
+        "node": "20.13.1",
+        "npm": "10.7.0"
     }
 }
